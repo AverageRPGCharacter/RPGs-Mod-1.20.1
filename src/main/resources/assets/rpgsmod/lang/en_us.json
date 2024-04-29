@@ -1,0 +1,12 @@
+{
+  "item.rpgsmod.echogem": "Echogem",
+  "item.rpgsmod.steel_ingot": "Steel Ingot",
+  "item.rpgsmod.coal_coke": "Coal Coke",
+  "item.rpgsmod.aluminum_ingot": "Aluminum Ingot",
+  "block.rpgsmod.echogem_block": "Block of Echogem",
+  "block.rpgsmod.steel_block": "Block of Steel",
+  "block.rpgsmod.coal_coke_block": "Block of Coal Coke",
+  "block.rpgsmod.aluminum_block": "Block of Aluminum",
+
+  "creativetab.rpgs_mod_tab": "RPG's Mod"
+}

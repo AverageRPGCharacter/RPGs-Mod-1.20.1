@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "rpgsmod:block/echogem_block"
+    }
+  }
+}

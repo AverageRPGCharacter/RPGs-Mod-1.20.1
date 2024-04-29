@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "rpgsmod:echogem"
+    }
+  },
+  "result": {
+    "item": "rpgsmod:echogem_block",
+    "count": 1
+  }
+}

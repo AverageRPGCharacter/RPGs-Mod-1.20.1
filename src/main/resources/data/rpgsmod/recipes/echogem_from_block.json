@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "rpgsmod:echogem_block"
+    }
+  ],
+  "result": {
+    "item": "rpgsmod:echogem",
+    "count": 9
+  }
+}
